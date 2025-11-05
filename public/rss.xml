@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KqLLL Blog</title>
+    <link>https://kqlll.github.io</link>
+    <description>个人技术博客，分享编程、技术和思考</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 05 Nov 2025 14:37:19 GMT</lastBuildDate>
+    <atom:link href="https://kqlll.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title><![CDATA[欢迎来到我的博客]]></title>
+      <link>https://kqlll.github.io/posts/welcome</link>
+      <guid>https://kqlll.github.io/posts/welcome</guid>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
+      <description><![CDATA[这是我的第一篇博客文章，欢迎大家来到我的技术博客！]]></description>
+      <category>博客</category>
+      <category>介绍</category>
+    </item>
+  
+    <item>
+      <title><![CDATA[Next.js 入门指南]]></title>
+      <link>https://kqlll.github.io/posts/nextjs-intro</link>
+      <guid>https://kqlll.github.io/posts/nextjs-intro</guid>
+      <pubDate>Tue, 04 Nov 2025 00:00:00 GMT</pubDate>
+      <description><![CDATA[了解 Next.js 的基础知识和核心概念，开始你的 Next.js 之旅]]></description>
+      <category>Next.js</category>
+      <category>React</category>
+      <category>Web开发</category>
+    </item>
+  
+  </channel>
+</rss>
